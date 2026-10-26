@@ -1,4 +1,4 @@
-////Artan, azalan ededler
+package Addition////Artan, azalan ededler
 //
 //var numbers = arrayOf(32, 31, 93, 22, 54)
 //fun artan (numbers: Array<Int>) {
@@ -8,7 +8,7 @@
 //    println(numbers.sortedDescending())
 //}
 //
-//fun main() {
+//fun task1.Addition.Addition.Addition.main() {
 //    println("Artan sira:")
 //    artan(numbers)
 //    println("Azalan sira:")
@@ -21,7 +21,7 @@
 //    return (a + b + c + d) / 4
 //}
 //
-//fun main () {
+//fun task1.Addition.Addition.Addition.main () {
 //    println("Riyaziyyat:")
 //    var a = readln().toInt()
 //    println("Azerbaycan dili:")
@@ -41,7 +41,7 @@
 //    }
 //}
 //
-//fun main() {
+//fun task1.Addition.Addition.Addition.main() {
 //    val xana = CharArray(9) { ' ' }
 //    var oyunçu = 'X'
 //    var say = 0

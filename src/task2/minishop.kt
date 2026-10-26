@@ -76,7 +76,7 @@
 //    }
 //}
 //
-//fun main () {
+//fun task1.Addition.Addition.Addition.main () {
 //    val products = arrayOf(
 //        Product("Phone", 500.0, 4),
 //        Product("Computer", 1300.0, 9),

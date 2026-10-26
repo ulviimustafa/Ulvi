@@ -1,3 +1,5 @@
+package Addition
+
 fun main () {
     print("1-ci ededi daxil edin: ")
     var a = readln().toInt()

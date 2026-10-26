@@ -1,4 +1,4 @@
-//fun calculate (op : (num1 : Int, num2 : Int) -> Int) {
+package Addition//fun calculate (op : (num1 : Int, num2 : Int) -> Int) {
 //    println("1-ci eded")
 //    val num1 = readlnOrNull()?.toIntOrNull()?:0
 //    println("2-ci eded")
