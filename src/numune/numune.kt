@@ -29,7 +29,7 @@ fun main() {
 //    var age = readln().toInt()
 //
 //    println("Salam $name, sənin $age yaşın var")
-
+//.
 
 
 }
