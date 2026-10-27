@@ -119,6 +119,6 @@ fun main() {
 //
 //    val ortalama = cem.toDouble() / ededler.size
 //    println("Ededlerin ortalamasi : $ortalama")
-
-
+//.
+//
 }
