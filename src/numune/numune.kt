@@ -163,6 +163,33 @@ fun main() {
 //    return emeliyyat(a, b)
 //}
 
-//    Task 13 -
+//    Task 13 - Lambda Function
+//
+//    println("A ededini daxil edin : ")
+//    val a = readln().toInt()
+//    println("B ededini daxil edin : ")
+//    val b = readln().toInt()
+//    println("Operator : ")
+//    val op = readln().toString()
+//    println("Netice : ")
+//    if (op == "+") {
+//        println(topla(a,b))
+//    }else if (op == "-") {
+//        println(cixma(a,b))
+//    }else if (op == "*") {
+//        println(vurma(a,b))
+//    }else if (op == "/") {
+//        println(bolme(a,b))
+//    }else {
+//        println("404 Not Found")
+//    }
+//
+//}
+//
+//val topla = {a : Int ,b : Int -> a+b}
+//val cixma = {a : Int ,b : Int -> a-b}
+//val vurma = {a : Int ,b : Int -> a*b}
+//val bolme = {a : Int ,b : Int -> a/b}
+
 
 }
