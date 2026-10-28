@@ -119,6 +119,50 @@ fun main() {
 //
 //    val ortalama = cem.toDouble() / ededler.size
 //    println("Ededlerin ortalamasi : $ortalama")
-//.
+
+//    Task 10 - Funksiya 1
 //
+//    println("A ededini daxil edin : ")
+//    val a = readln().toInt()
+//    println("B ededini daxil edin : ")
+//    val b = readln().toInt()
+//    println("Netice : ${topla(a,b)}")
+//}
+//
+//fun topla (a : Int , b : Int ) : Int {
+//    return a + b
+//}
+
+
+//    Task 11 - Funksiya kvadrat ededler
+//
+//    println("Ededi yazin : ")
+//    val eded = readln().toInt()
+//    println("Ededin kvadrati : ${ededinKvadrati(eded)}")
+//
+//}
+//
+//fun ededinKvadrati (eded : Int ) : Int {
+//    return eded * eded
+//}
+
+//    Task 12 - Higher-Order Function - Calculator
+//    println("A ededini daxil edin : ")
+//    val a = readln().toInt()
+//    println("B ededini daxil edin : ")
+//    val b = readln().toInt()
+//    println("Netice : ")
+//    println(hesabla(a,b) {a , b -> a+b})
+//}
+//
+//fun hesabla (
+//    a : Int,
+//    b : Int,
+//    emeliyyat : (Int, Int) -> Int
+//) : Int {
+//    return emeliyyat(a, b)
+//}
+
+//    Task 13 -
+
 }
