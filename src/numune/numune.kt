@@ -191,5 +191,42 @@ fun main() {
 //val vurma = {a : Int ,b : Int -> a*b}
 //val bolme = {a : Int ,b : Int -> a/b}
 
+//Task 14 - Lambda Function 2
+//
+//
+//    println("A ededini daxil edin : ")
+//    val a = readln().toInt()
+//    println(emeliyyat(a))
+//}
+//
+//var emeliyyat : (Int) -> Int = { a->
+//    println("Netice : ")
+//    if (a > 10) {
+//        a*2
+//    }else {
+//        a+5
+//    }
+
+//    Task 15 - Function HOF 3
+//
+//    println("A ededini daxil edin : ")
+//    val a = readln().toInt()
+//    println("B ededini daxil edin : ")
+//    val b = readln().toInt()
+//    print("Toplama :")
+//    println(emeliyyat(a, b) {a,b -> a+b})
+//    print("Vurma : ")
+//    println(emeliyyat(a, b) {a,b -> a*b})
+//    print("Cixma : ")
+//    println(emeliyyat(a, b) {a,b -> a-b})
+//}
+//
+//fun emeliyyat (
+//    a : Int,
+//    b : Int,
+//    hereket : (Int, Int) -> Int
+//): Int {
+//    return hereket(a, b)
+
 
 }
