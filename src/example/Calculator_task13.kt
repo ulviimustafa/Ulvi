@@ -1,6 +1,7 @@
 package example
 
 //Task 13 - Lambda Function - Calculator
+//
 fun main () {
     println("A ededini daxil edin : ")
     val a = readln().toInt()

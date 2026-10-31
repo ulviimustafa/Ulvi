@@ -9,6 +9,7 @@ fun main () {
 
 }
 
+//
 fun ededinKvadrati (eded : Int ) : Int {
     return eded * eded
 }

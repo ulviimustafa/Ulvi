@@ -16,3 +16,5 @@ var emeliyyat : (Int) -> Int = { a ->
         a + 5
     }
 }
+
+//

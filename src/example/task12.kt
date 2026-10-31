@@ -9,6 +9,7 @@ fun main () {
     println("Netice : ")
     println(hesabla(a,b) {a , b -> a+b})
 }
+//
 
 fun hesabla (
     a : Int,

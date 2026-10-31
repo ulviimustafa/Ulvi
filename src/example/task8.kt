@@ -13,3 +13,4 @@ fun main (){
     println("Adiniz kicik herflerle bu cur yazilir : ")
     println(name.lowercase())
 }
+//

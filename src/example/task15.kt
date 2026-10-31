@@ -20,4 +20,5 @@ fun emeliyyat(
     hereket: (Int, Int) -> Int
 ): Int {
     return hereket(a, b)
+//
 }

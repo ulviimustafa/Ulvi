@@ -18,7 +18,7 @@ fun main () {
         println("Kesildiniz")
     }
 }
-
+//
 fun balHesablama (a : Int, b : Int , c: Int) : Int {
     val i = (a + b + c) / 3
     println("Ortalama baliniz : $i")

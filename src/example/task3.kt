@@ -6,3 +6,4 @@ fun main() {
     money = 150
     println(money)
 }
+//

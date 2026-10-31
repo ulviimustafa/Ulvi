@@ -15,4 +15,5 @@ fun main () {
 
     println("Salam $name, sənin $age yaşın var")
 }
+//
 

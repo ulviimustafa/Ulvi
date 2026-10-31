@@ -3,6 +3,7 @@ package example
 //Task 9 - Istifadeci 5 eded daxil etsin ve onlarin ortalamasini hesabla
 
 fun main() {
+//
     val ededler = IntArray(5)
     var cem = 0
 

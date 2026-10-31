@@ -12,3 +12,4 @@ var arrays = arrayOf(21,25,45,75,65)
     }
     println("Ededlerin cemi : $cem")
 }
+//
