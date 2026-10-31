@@ -90,7 +90,7 @@ fun findBest(students: Array<Student>): Student? {
     }
     return best
 }
-
+//
 fun main() {
     val std1 = Student(
         name = "Ulvi", scores = intArrayOf(94, 76, 84, 99, 75)
